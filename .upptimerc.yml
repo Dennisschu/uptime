@@ -9,7 +9,7 @@ sites:
     url: https://cdn.Ploen.social
   - name: Dennis.services Matrix
     url: https://matrix.dennis.services
-  - name: Dennus.services Mail
+  - name: Dennis.services Mail
     url: https://mail-1.dennis.services
   - name: Teacup
     url: https://teacup.social
