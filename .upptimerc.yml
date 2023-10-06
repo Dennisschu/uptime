@@ -13,7 +13,7 @@ sites:
     url: https://mail-1.dennis.services
   - name: Teacup.social
     url: https://teacup.social
-  - name: Dennis Blog
+  - name: Dennisschuster.eu Blog
     url: https://Dennisschuster.eu
 
 status-website:
