@@ -1,7 +1,7 @@
 url: https://mail-1.dennis.services
-status: up
-code: 200
-responseTime: 694
-lastUpdated: 2024-08-03T23:13:20.491Z
+status: down
+code: 500
+responseTime: 24585
+lastUpdated: 2024-08-04T07:44:18.376Z
 startTime: 2023-10-06T20:14:39.119Z
 generator: Upptime <https://github.com/upptime/upptime>
