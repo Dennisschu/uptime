@@ -94,17 +94,17 @@
     "url": "https://Dennisschuster.eu",
     "icon": "https://icons.duckduckgo.com/ip3/dennisschuster.eu.ico",
     "slug": "dennisschuster-eu-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 151,
+    "time": 199,
+    "timeDay": 143,
     "timeWeek": 136,
     "timeMonth": 143,
-    "timeYear": 195,
+    "timeYear": 194,
     "dailyMinutesDown": {}
   }
 ]
