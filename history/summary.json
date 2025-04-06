@@ -68,7 +68,7 @@
     "timeDay": 826,
     "timeWeek": 2314,
     "timeMonth": 2376,
-    "timeYear": 1654,
+    "timeYear": 1657,
     "dailyMinutesDown": {}
   },
   {
@@ -94,15 +94,15 @@
     "url": "https://Dennisschuster.eu",
     "icon": "https://icons.duckduckgo.com/ip3/dennisschuster.eu.ico",
     "slug": "dennisschuster-eu-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 196,
-    "timeWeek": 190,
+    "time": 200,
+    "timeDay": 191,
+    "timeWeek": 189,
     "timeMonth": 181,
     "timeYear": 202,
     "dailyMinutesDown": {}
