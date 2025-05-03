@@ -58,17 +58,17 @@
     "url": "https://mail-1.dennis.services",
     "icon": "https://icons.duckduckgo.com/ip3/mail-1.dennis.services.ico",
     "slug": "dennis-services-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1770,
-    "timeDay": 5165,
-    "timeWeek": 4603,
-    "timeMonth": 3207,
-    "timeYear": 1936,
+    "time": 1772,
+    "timeDay": 4756,
+    "timeWeek": 4494,
+    "timeMonth": 3021,
+    "timeYear": 1937,
     "dailyMinutesDown": {}
   },
   {
@@ -103,7 +103,7 @@
     "time": 185,
     "timeDay": 92,
     "timeWeek": 168,
-    "timeMonth": 167,
+    "timeMonth": 169,
     "timeYear": 187,
     "dailyMinutesDown": {}
   }
