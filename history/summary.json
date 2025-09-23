@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 715,
     "timeDay": 726,
-    "timeWeek": 724,
+    "timeWeek": 738,
     "timeMonth": 782,
     "timeYear": 729,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 553,
     "timeDay": 319,
-    "timeWeek": 531,
+    "timeWeek": 516,
     "timeMonth": 701,
     "timeYear": 575,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1017,
     "timeDay": 858,
-    "timeWeek": 979,
+    "timeWeek": 954,
     "timeMonth": 1175,
     "timeYear": 1033,
     "dailyMinutesDown": {}
@@ -58,17 +58,17 @@
     "url": "https://mail-1.dennis.services",
     "icon": "https://icons.duckduckgo.com/ip3/mail-1.dennis.services.ico",
     "slug": "dennis-services-mail",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2782,
-    "timeDay": 668,
-    "timeWeek": 1525,
-    "timeMonth": 2023,
-    "timeYear": 2914,
+    "timeDay": 679,
+    "timeWeek": 1509,
+    "timeMonth": 2017,
+    "timeYear": 2912,
     "dailyMinutesDown": {}
   },
   {
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 199,
     "timeDay": 476,
-    "timeWeek": 351,
+    "timeWeek": 338,
     "timeMonth": 364,
     "timeYear": 194,
     "dailyMinutesDown": {}
