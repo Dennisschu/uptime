@@ -13,8 +13,8 @@
     "time": 722,
     "timeDay": 1380,
     "timeWeek": 850,
-    "timeMonth": 788,
-    "timeYear": 737,
+    "timeMonth": 790,
+    "timeYear": 736,
     "dailyMinutesDown": {}
   },
   {
@@ -31,8 +31,8 @@
     "time": 557,
     "timeDay": 665,
     "timeWeek": 632,
-    "timeMonth": 533,
-    "timeYear": 575,
+    "timeMonth": 526,
+    "timeYear": 574,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "time": 1023,
     "timeDay": 1367,
     "timeWeek": 1053,
-    "timeMonth": 1063,
-    "timeYear": 1039,
+    "timeMonth": 1064,
+    "timeYear": 1038,
     "dailyMinutesDown": {}
   },
   {
@@ -58,17 +58,17 @@
     "url": "https://mail-1.dennis.services",
     "icon": "https://icons.duckduckgo.com/ip3/mail-1.dennis.services.ico",
     "slug": "dennis-services-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2639,
+    "time": 2640,
     "timeDay": 851,
     "timeWeek": 959,
-    "timeMonth": 1495,
-    "timeYear": 2717,
+    "timeMonth": 1497,
+    "timeYear": 2719,
     "dailyMinutesDown": {}
   },
   {
